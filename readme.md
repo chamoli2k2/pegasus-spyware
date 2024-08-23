@@ -47,4 +47,4 @@ The Cryptography library provides robust encryption methods to securely encrypt 
 
 Check out this video for a demonstration of the Pegasus Spyware:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UXhv4y2eP4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Pegasus Spyware Demo](https://img.youtube.com/vi/UXhv4y2eP4c/0.jpg)](https://www.youtube.com/watch?v=UXhv4y2eP4c)
