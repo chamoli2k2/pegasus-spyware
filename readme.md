@@ -42,3 +42,9 @@ Pyperclip is employed to monitor and capture clipboard data from the target host
 
 ### Cryptography
 The Cryptography library provides robust encryption methods to securely encrypt the captured data before transmission.
+
+## Project Demo
+
+Check out this video for a demonstration of the Pegasus Spyware:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UXhv4y2eP4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
